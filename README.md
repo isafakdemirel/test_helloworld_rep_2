@@ -8,3 +8,6 @@ NOTE: putting more hashtag makes title smaller.
 
 ## Protein info
 Here I will create a space to add my protein information - example task.
+
+## Gene Info
+Here i will add gene information for my data - example task.
