@@ -6,5 +6,8 @@ NOTE: putting more hashtag makes title smaller.
 
 [hello world exercise](https://docs.github.com/en/get-started/start-your-journey/hello-world#step-1-create-a-repository)
 
+## Protein info
+Here I will create a space to add my protein information - example task.
+
 ## Gene Info
 Here i will add gene information for my data - example task.
